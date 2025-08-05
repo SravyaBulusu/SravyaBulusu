@@ -21,11 +21,14 @@
 #### 🚌 [Bus Booking Project](https://github.com/SravyaBulusu/BUS_PROJECT)
 A full-stack application for bus ticket booking using React, Node.js, and Express. Shows real-time ticket selection and user interface logic.
 
+#### 🎭 [Theatre Seating System](https://github.com/SravyaBulusu/Movie_project)
+A front-end project to simulate seat booking in a movie theatre. Uses HTML, CSS, and JavaScript for UI and logic.
+
 #### 🛍️ [Shopping App](https://github.com/SravyaBulusu/Digita_store)
 A React-based e-commerce interface with product filtering, ratings, like & cart features. Clean UI with reusable components.
 
-#### 🎭 [Theatre Seating System](https://github.com/SravyaBulusu/Movie_project)
-A front-end project to simulate seat booking in a movie theatre. Uses HTML, CSS, and JavaScript for UI and logic.
+## 🌐 Portfolio
+🔗 [Visit my portfolio website](https://portfolio-sravyabulusu.vercel.app/)
 
 ---
 
